@@ -89,15 +89,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DGaliaf&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/DGaliaf/DGaliaf/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNxNmg2Y2p1enl0dGsyOTFxeTJrOGgzZzltYm8wZjR6djkwOW0ydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"  />
-</div>
-
-###
