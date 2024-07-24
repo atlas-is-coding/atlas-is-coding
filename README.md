@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">My name is Danil, I from Russia<br><br>- 🔭 I’m working as Backend-Developer<br>- 📚 I'm currently learning Rust and Solidity<br>- ⚡ In my free time I read boring documentation and learning cryptography</p>
+<p align="left">My name is Danil, I am from Russia<br><br>- 🔭 I’m working as Backend-Developer<br>- 📚 I'm currently learning Rust and Solidity<br>- ⚡ In my free time I read boring documentation and learning cryptography</p>
 
 ###
 
