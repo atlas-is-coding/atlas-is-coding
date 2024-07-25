@@ -92,4 +92,6 @@
 
 ###
 
-![snake gif](https://github.com/DGaliaf/DGaliaf/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  ![snake gif](https://github.com/DGaliaf/DGaliaf/blob/output/github-contribution-grid-snake.gif)
+</div>
