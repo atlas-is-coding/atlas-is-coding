@@ -89,7 +89,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DGaliaf&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
-
-###
-
-![snake gif](https://github.com/DGaliaf/DGaliaf/blob/output/github-contribution-grid-snake.gif)
