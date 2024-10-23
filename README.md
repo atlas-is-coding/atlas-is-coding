@@ -7,6 +7,8 @@
 ###
 
 <h1 align="center">👋 Hi there 👋</h1>
+<img src="https://komarev.com/ghpvc/?username=DGaliaf&style=flat-square&color=blue" alt=""/>
+
 
 ###
 
