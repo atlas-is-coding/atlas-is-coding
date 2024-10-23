@@ -86,6 +86,11 @@
 
 ###
 
+<a href="https://gitroll.io/profile/u5V3si0M7hjVsuVPqZlKIeGT3M0F2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u5V3si0M7hjVsuVPqZlKIeGT3M0F2" alt="GitRoll Profile Badge"/></a>
+(Not so great, i know :()
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DGaliaf&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
