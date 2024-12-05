@@ -16,18 +16,15 @@
 
 ###
 
-<p align="left">My name is Danil, I am from Russia<br><br>- 🔭 I’m working as Backend-Developer<br>- 📚 I'm currently learning Rust and Solidity<br>- ⚡ In my free time I read boring documentation and learning cryptography</p>
+<p align="left">My name is Daniel<br>- 🔭 I’m working as Backend-Developer<br>- 📚 I'm currently learning Rust and Solidity<br>- ⚡ In my free time I read boring documentation and learning cryptography</p>
 
 ###
 
 <div align="center">
-  <a href="mailto:danilgaliafer2000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=danilgaliafer2000@gmail.com&color=D14836&logoColor=white&labelColor=D14836&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:mw.atlas.kun@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=mw.atlas.kun@gmail.com&color=D14836&logoColor=white&labelColor=D14836&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=.galiaf&color=7289DA&logoColor=white&labelColor=7289DA&style=for-the-badge" height="25" alt="discord logo"  />
-  <a href="https://t.me/dkhodos" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
 </div>
 
 ###
