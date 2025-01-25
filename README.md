@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">My name is Daniel<br>- 🔭 I’m working as Backend-Developer<br>- 📚 I'm currently learning Rust and Solidity<br>- ⚡ In my free time I read boring documentation and learning cryptography</p>
+<p align="left">My name is Galiaf<br>- 🔭 I’m working as Backend-Developer<br>- 📚 I'm currently learning Rust and Solidity<br>- ⚡ In my free time I read boring documentation and learning cryptography</p>
 
 ###
 
