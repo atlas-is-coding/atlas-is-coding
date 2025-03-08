@@ -7,7 +7,7 @@
 ###
 
 <h1 align="center">👋 Hi there 👋</h1>
-<img src="https://komarev.com/ghpvc/?username=DGaliaf&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=atlas-is-coding&style=flat-square&color=blue" alt=""/>
 
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">My name is Galiaf<br>- 🔭 I’m working as Backend-Developer<br>- 📚 I'm currently learning Rust and Solidity<br>- ⚡ In my free time I read boring documentation and learning cryptography</p>
+<p align="left">My name is Atlas<br>- 🔭 I’m working as Backend-Developer<br>- 📚 I'm currently learning Rust and Solidity<br>- ⚡ In my free time I read boring documentation and learning cryptography</p>
 
 ###
 
@@ -24,7 +24,6 @@
   <a href="mailto:mw.atlas.kun@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=mw.atlas.kun@gmail.com&color=D14836&logoColor=white&labelColor=D14836&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=.galiaf&color=7289DA&logoColor=white&labelColor=7289DA&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
 ###
@@ -82,11 +81,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DGaliaf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="300" alt="languages graph"  />
 </div>
-
-###
-
-<a href="https://gitroll.io/profile/u5V3si0M7hjVsuVPqZlKIeGT3M0F2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u5V3si0M7hjVsuVPqZlKIeGT3M0F2" alt="GitRoll Profile Badge"/></a>
-(Not so great, i know :()
 
 ###
 
